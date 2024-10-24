@@ -8,7 +8,9 @@
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       </h1>
       <h2>
-      Employers: My GitHub is empty because I was recently subject to a data breach in which my original GitHub account was compromised. 
+      Employers: Please visit my other account which was recently recovered: 
+<a href="[githu](https://github.com/michael-kudrik/)">michael-kudrik</a>
+. 
       </h2>
     </summary>
   </ul>
