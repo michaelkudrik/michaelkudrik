@@ -7,7 +7,6 @@
         Hi, I'm Michael!
         <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
       </h1>
-      Employers: Please visit my recently recovered GitHub account:https://github.com/michael-kudrik
     </summary>
   </ul>
 </div>
@@ -16,7 +15,7 @@
   <h3>🚀 About Me</h3>
   <p>I'm a student, currently diving deep into Computer Science! 🌐</p>
 
-[![](https://visitcount.itsvg.in/api?id=michaelkudrik&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=michael-kudrik&label=Profile%20Views&color=7&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -64,15 +63,15 @@
 <div align="center">
   <h3>💻 Recent Activity</h3>
 
-[![Username's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michaelkudrik&theme=dracula)](https://github.com/michaelkudrik)
+[![Username's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=michael-kudrik&theme=dracula)](https://github.com/michael-kudrik)
 
 </div>
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=michaelkudrik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelkudrik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=michael-kudrik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-kudrik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
