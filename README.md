@@ -70,7 +70,7 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=michael-kudrik&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://p/api?username=michael-kudrik&theme=kacho_ga&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-kudrik&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
